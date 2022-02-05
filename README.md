@@ -1,9 +1,9 @@
 
                                                                                               
-  When using this tool, please cite:                                                          
-                                                                                              
-                                                                                              
-                                                                                              
+  When using this tool, please cite: 
+  
+  J. R. M. Monteiro and Henrique Pecinatto. (2022). joziano/tools-for-quantum-espresso-pdos (v1.0). Zenodo. https://doi.org/10.5281/zenodo.5976058
+                                                                                                                                                    
   1) The pdos-sum.sh program is an auxiliary tool for sumpdos.x from the                      
      open-source Quantum ESPRESSO suite for quantum simulation of materials;                  
                                                                                               
