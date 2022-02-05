@@ -1,0 +1,11 @@
+@software{j_r_m_monteiro_2022_5976058,
+  author       = {J. R. M. Monteiro and
+                  Henrique Pecinatto},
+  title        = {pdos-sum.sh/tools-for-quantum-espresso},
+  month        = feb,
+  year         = 2022,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.5976058},
+  url          = {https://doi.org/10.5281/zenodo.5976058}
+}
