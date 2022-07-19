@@ -36,7 +36,7 @@
                                                                                               
                                                                                               
   hope we have helped,                                                                        
-  Joziano Rony de Miranda Monteiro | joziano@protonmail.com                                   
+  J. R. M. Monteiro | joziano@protonmail.com                                   
   Henrique Pecinatto | pecinatto@ufam.edu.br                                                  
   Manaus, Amazonas, Brasil.                                                                   
 
