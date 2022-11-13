@@ -1,3 +1,7 @@
+  # Please, when using this tool, cite:
+
+J. R. M. Monteiro, & Henrique Pecinatto. (2022). pdos-sum.sh/tools-for-quantum-espresso (v1.0). Zenodo. https://doi.org/10.5281/zenodo.5976058
+  
   # pdos-sum.sh
 
   **1.** The pdos-sum.sh program is an auxiliary tool for sumpdos.x from the                      
