@@ -1,6 +1,5 @@
 @software{j_r_m_monteiro_2022_5976058,
-  author       = {J. R. M. Monteiro and
-                  Henrique Pecinatto},
+  author       = {J. R. M. Monteiro and Henrique Pecinatto},
   title        = {pdos-sum.sh/tools-for-quantum-espresso},
   month        = feb,
   year         = 2022,
